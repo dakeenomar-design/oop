@@ -261,24 +261,10 @@ Through these exercises, I worked with:
 
 ## 👨‍💻 Author
 
-**Tariq Elshafie Mudawi**
+**ABDALHAFIZ OMER DAKEEN OMAR**
 
-Student ID: `202504010014`
+Student ID: `202505010503`
 
 This repository contains coursework and practical exercises developed during my Java Object-Oriented Programming studies.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the [`LICENSE`](LICENSE) file for more information.
-
----
-
-## 🔗 Repository
-
-The complete source code is available on GitHub:
-
-[**TARIG_ELSHAFIE_MUDAWI_202504010014_OB**](https://github.com/tariqelshafie/TARIG_ELSHAFIE_MUDAWI_202504010014_OB)
