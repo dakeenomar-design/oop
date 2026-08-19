@@ -16,8 +16,9 @@ The repository is organized into separate tutorial folders, with each tutorial f
 | -------------- | ------------------------------------------------------- |
 | `tutorial_1`   | Classes, objects, attributes, constructors, and methods |
 | `tutorial_2`   | Java class and object exercises                         |
-| `tutorial_3`   | Inheritance and relationships between classes           |
+| `tutorial_3-4` | Inheritance and relationships between classes           |
 | `tutorial_5`   | Object-oriented programming practice and documentation  |
+| `tutorial_8-9` | Practical tutorial work included in the repository      |
 | `tutorial_6`   | Inheritance using employee and lecturer classes         |
 | `tutorial_7`   | Abstract classes / inheritance using appliances         |
 | `tutolrial_10` | Java GUI quiz application                               |
@@ -37,7 +38,7 @@ ABDALHAFIZ OMER DAKEEN OMAR
 │   ├── Student.java
 │   └── main.java
 │
-├── tutorial_3/
+├── tutorial_3-4/
 │   ├── Person.java
 │   ├── Student.java
 │   ├── Lecturer.java
@@ -53,11 +54,18 @@ ABDALHAFIZ OMER DAKEEN OMAR
 │   ├── lecturer.java
 │   └── main.java
 │
+│
 ├── tutorial_7/
 │   ├── Applience.java
 │   ├── Microwave.java
 │   ├── WashingMachine.java
 │   └── Main.java
+│
+│
+├── tutorial_8-9/
+│   ├── task.txt.java
+│   │
+│   └── main.java
 │
 ├── tutolrial_10/
 │   ├── Questions.java
@@ -211,13 +219,13 @@ You can also compile and run the programs directly from the command line.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/tariqelshafie/TARIG_ELSHAFIE_MUDAWI_202504010014_OB.git
+git clone https://github.com/dakeenomar-design/oop 
 ```
 
 Move into the project directory:
 
 ```bash
-cd TARIG_ELSHAFIE_MUDAWI_202504010014_OB
+cd dakeenomar-design/oop
 ```
 
 ### Compile a Tutorial
