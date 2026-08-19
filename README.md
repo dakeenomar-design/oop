@@ -71,9 +71,10 @@ ABDALHAFIZ OMER DAKEEN OMAR
 │   ├── Questions.java
 │   └── QuizBattleGUI.java
 │
-├── .gitignore
-├── LICENSE
-└── README.md
+├── LICENSE.txt          
+├── README.md        
+├── Report.Pdf       
+└── gitignore.txt
 ```
 
 > **Note:** The folder `tutolrial_10` intentionally retains the spelling used in the original repository.
