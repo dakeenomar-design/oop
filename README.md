@@ -8,7 +8,7 @@ This repository contains several Java exercises covering fundamental programming
 
 ---
 
-## 📚 Contents
+##  Contents
 
 The repository is organized into separate tutorial folders, with each tutorial focusing on different Java programming concepts.
 
@@ -25,7 +25,7 @@ The repository is organized into separate tutorial folders, with each tutorial f
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
 ABDALHAFIZ OMER DAKEEN OMAR
@@ -80,7 +80,7 @@ ABDALHAFIZ OMER DAKEEN OMAR
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 * **Java**
 * Object-Oriented Programming (OOP)
@@ -94,7 +94,7 @@ ABDALHAFIZ OMER DAKEEN OMAR
 
 ---
 
-## 🧠 Concepts Practiced
+##  Concepts Practiced
 
 ### 1. Classes and Objects
 
@@ -205,7 +205,7 @@ The project demonstrates how Java can be used to create a graphical user interfa
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Requirements
 
@@ -247,7 +247,7 @@ The exact command may vary depending on the class name and the Java environment 
 
 ---
 
-## 📖 Learning Objectives
+##  Learning Objectives
 
 The purpose of this repository is to practice and demonstrate fundamental Java and Object-Oriented Programming concepts.
 
@@ -267,7 +267,7 @@ Through these exercises, I worked with:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **ABDALHAFIZ OMER DAKEEN OMAR**
 
