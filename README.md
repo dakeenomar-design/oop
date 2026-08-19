@@ -109,7 +109,7 @@ For example, `tutorial_1` contains a `Student` class with attributes such as:
 It also includes methods for displaying student information and performing actions such as studying and taking an exam.
 
 ```java
-Student s1 = new Student("tariq", 20, 3.8);
+Student s1 = new Student("omar", 20, 3.8);
 
 s1.displayInfo();
 s1.study();
