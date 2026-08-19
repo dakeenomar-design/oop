@@ -27,7 +27,7 @@ The repository is organized into separate tutorial folders, with each tutorial f
 ## 🗂️ Project Structure
 
 ```text
-ABDALHAFIZ OME4R DAKEEN OMAR
+ABDALHAFIZ OMER DAKEEN OMAR
 │
 ├── tutorial_1/
 │   ├── Student.java
